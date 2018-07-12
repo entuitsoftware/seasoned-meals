@@ -1,72 +1,10 @@
 /*-----------------------------------------------------------------------------------
     Template Name: Cattle site tamplete 
     Template URI: http://durkcoder.com
-    Description: This is one page site tamplete on responsive
-    Author: shisir imran
-    Author URI: http://.durkcoder.com/shisir
+   
     Version: 1.0
 -----------------------------------------------------------------------------------
-    CSS INDEX
-    ===================
-    1 Template default CSS
-    2 main style start here
-    3 header top area
-    4 start main menu
-        4.1 dropdown menu
-    5 slider part
-    6 about_us part start
-    7 service part start
-    8 top_food
-    9 promotion
-    10 our_menu
-    11 delivary
-    12 hot_cold
-	13 counter
-    14 testmonial
-    15 percess
-    16 blog
-    17 news_later
-    18 brand
-	19 event
-    21 footer_top
-    21 footer_bottom
-    22 scroll_top
-    23 start about_page part
-        23.1 about_us_about
-        23.2 about_us_about_percess
-        23.3 team
-        23.4 about_brand
-        23.5 galary
-    24 start resurve page part
-        24.1 reserve_info
-        24.2 reserve_animation
-        24.3 reservation_form
-    25 start menu page part
-        25.1 today_menu
-        25.2 menu_tody2
-    26 start blog main page part
-        26.1 blog_about
-        26.2 blog_main_content
-        26.3 right news style
-        26.4 recent_news
-        26.5 news_galary
-        26.6 news_tags
-    27 start blog details page part
-    28 start shope page part
-        28.1 shope_container
-        28.2 food_listing
-        28.3 main shope food list
-        28.4 shope right side bar
-        28.5 recent_food
-        28.6 helping_center_content
-    29 start shope details part
-        29.1 details_product_slide
-    30 start contact page part
-        30.1 contact_container
-    31 preloader
------------------------------------------------------------------------------------*/
-/*--  1 Template default CSS --*/
-/*-- fonts -- */
+*/
 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i|Playball|Rancho|Sacramento|Trirong:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 *{
     margin: 0;
@@ -190,6 +128,12 @@ ul{
 }
 .navbar-right li > ul li:hover a{
     color: #ffab0a;
+}
+.theme-text{
+    color : #ffab0a !important;
+}
+.theme-text-alt{
+    color : #e41414 !important; 
 }
 .navbar-right li:hover ul{
     opacity: 1;

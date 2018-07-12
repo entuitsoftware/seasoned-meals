@@ -35,12 +35,12 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul id="menu" class="nav navbar-nav navbar-right">
-                  <li class="active"><a href="index.html">Home</a></li>    
-                  <li><a href="about.html">About</a></li>
-                  <li><a href="services.html">Services</a></li>
-                  <li><a href="gallery.html">Gallery</a></li>
-                  <li><a href="blog.html">blog</a></li>
-                  <li><a href="contact.html">contact</a></li>  
+                  <li <?php  if($active=='index'){echo('class="active"');}?> ><a href="/">Home</a></li>    
+                  <li <?php  if($active=='about'){echo('class="active"');}?>><a href="about.php">About</a></li>
+                  <li <?php  if($active=='services'){echo('class="active"');}?>><a href="services.php">Services</a></li>
+                  <li <?php  if($active=='gallery'){echo('class="active"');}?>><a href="gallery.php">Gallery</a></li>
+                  <li <?php  if($active=='blog'){echo('class="active"');}?>><a href="blog.php">blog</a></li>
+                  <li <?php  if($active=='contact'){echo('class="active"');}?>><a href="contact.php">contact</a></li>  
               </ul>
             </div>
         </div>
