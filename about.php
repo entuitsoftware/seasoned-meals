@@ -64,7 +64,7 @@ include_once('head.php')
         </div>
     </section>
     <!-- end about us about part -->
-    <!-- start about percess -->
+    <!-- start about percess 
     <section id="about_us_about_percess">
         <div class="container">
             <div class="row">

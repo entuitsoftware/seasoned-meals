@@ -47,11 +47,11 @@ include_once('head.php')
                                         <img class="img-responsive" src="assests/img/blog-main/news-2.jpg" alt="">
                                         <div class="blog_main_date">
                                             <h1>jun</h1>
-                                            <p>27</p>
+                                            <p>17</p>
                                         </div>
                                     </div>
                                     <div class="news_text">
-                                        <h3>Google offers more control, after ads on offensive content leads to brand boycott</h3>
+                                        <h3>Happy Father's Day</h3>
                                         <p>Donec finibus sit amet orci eget ultricies. Praesent posuere ante ut erat fringilla, vestibulum placerat metus mattis. Aenean dictum vitae nisl nec tempor. Proin varius turpis ut sem porttitor varius. Sed aliquet libero ultrices consectetur. Vivamus egestas, metus quis egestas egestas tortor justo pharetra diam, et dapibus massa nibh dapibus</p>
                                     </div>
                                     <div class="news_info">
@@ -104,30 +104,17 @@ include_once('head.php')
                                 <ul>
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 26/05/2017</li>
                                 </ul>
-                                <h4>Becoming a better life</h4>
-                                <p>Lorem ipsum dolor sit amet, conse adipisicing elit, sed do eiusmod tempor incididunt ... </p>
+                                <h4>Happy father's day!</h4>
+                                <p> </p>
                             </div>
                             <div class="recent_news_item">
                                 <ul>
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 26/05/2017</li>
                                 </ul>
-                                <h4>Becoming a better life</h4>
-                                <p>Lorem ipsum dolor sit amet, conse adipisicing elit, sed do eiusmod tempor incididunt ... </p>
+                                <h4>Welcome</h4>
+                                <p>... </p>
                             </div>
-                            <div class="recent_news_item">
-                                <ul>
-                                    <li><i class="fa fa-calendar" aria-hidden="true"></i> 26/05/2017</li>
-                                </ul>
-                                <h4>Becoming a better life</h4>
-                                <p>Lorem ipsum dolor sit amet, conse adipisicing elit, sed do eiusmod tempor incididunt ... </p>
-                            </div>
-                            <div class="recent_news_item">
-                                <ul>
-                                    <li><i class="fa fa-calendar" aria-hidden="true"></i> 26/05/2017</li>
-                                </ul>
-                                <h4>Becoming a better life</h4>
-                                <p>Lorem ipsum dolor sit amet, conse adipisicing elit, sed do eiusmod tempor incididunt ... </p>
-                            </div>
+                         
                         </div>
                         <!-- <div class="news_galary">
                            <h3>Instagram Gallery</h3>

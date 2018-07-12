@@ -33,7 +33,7 @@ include_once('head.php')
                                         <h1 class="theme-text-alt">Seasoned Meals</h1>
                                         <h3 class="theme-text">Your first steps into affordable homemade meals solutions, to keep your taste buds
                                             happy without any of that guilt! </h3>
-                                        <a href="#">Request Menu</a>
+                                        <a href="contact.php">Request Menu</a>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@ include_once('head.php')
                                     <div class="banar_text">
                                         <h1>Seasoned Meals</h1>
                                         <h2>Let Enjoy The Rhym Of Fooday Dishes</h2>
-                                        <a href="about.html">Red More</a>
+                                        <a href="about.php">Red More</a>
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@ include_once('head.php')
                             <div class="banar_table">
                                 <div class="banar_table_cell">
                                     <div class="banar_text">
-                                        <h1>Cattle-Resturent</h1>
+                                        <h1>Seasoned Meals</h1>
                                         <h2>Let Enjoy The Rhym Of Fooday Dishes</h2>
                                         <a href="about.html">Red More</a>
                                     </div>
